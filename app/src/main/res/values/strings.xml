@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="Notes">Заметки</string>
+    <string name="btn1">+</string>
+    <string name="title">Заголовок</string>
+    <string name="edit">Запись</string>
+    <string name="save">Сохранить</string>
+    <string name="list_view_txt">a</string>
+    <string name="app_name1">Редактирование</string>
+    <string name="app_name2">Новая запись</string>
+</resources>
